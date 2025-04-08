@@ -1,0 +1,18 @@
+*{
+   margin:30;
+   padding: 30;
+}
+
+body{
+    background-color: var(--black);
+    color: var(--white);
+}
+
+.subtitulo{
+    font-size: ;
+}
+
+th, td{
+    border: 1px solid var(--white);
+    
+}
